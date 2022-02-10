@@ -24,7 +24,4 @@
   <a href="https://instagram.com/mariaclarasanglard" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/22vzfy4wqcu4fjaoufoz3hkyq?si=DyU8P-96RaKb63edBjK-Aw&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/maria_sanglard" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/Mariaclaraadame/Mariaclaraadame/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
