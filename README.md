@@ -13,7 +13,7 @@
   <img align="center" alt="Maria-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Maria-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="right" alt="Maria-gif" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/745433562802552852/944081083706789939">
+  <img align="right" alt="Maria-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/745433562802552852/944081083748724756/gifme.gif?width=406&height=406">
   </div>
 
   ##
